@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "219672120318",
+    "firebase_url": "https://com-vuongdan-hcm23demoprj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "com-vuongdan-hcm23demoprj",
+    "storage_bucket": "com-vuongdan-hcm23demoprj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219672120318:android:27b56ab5403b2d8d2aceaf",
+        "android_client_info": {
+          "package_name": "com.example.hcm23_demo_prj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219672120318-dbvc4cdkp9dn4bvhp5i642jn21ijbv6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBY9u4fs5i0Km52RvXMmXmpuUDWhnW3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219672120318-dbvc4cdkp9dn4bvhp5i642jn21ijbv6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219672120318-24q0o6jlvf9c55ulds3ed082koiq73bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vuongDan.hcm23DemoPrj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219672120318:android:84ff99306175c2612aceaf",
+        "android_client_info": {
+          "package_name": "dat3023.dev.todo.appliction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219672120318-dbvc4cdkp9dn4bvhp5i642jn21ijbv6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBY9u4fs5i0Km52RvXMmXmpuUDWhnW3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219672120318-dbvc4cdkp9dn4bvhp5i642jn21ijbv6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219672120318-24q0o6jlvf9c55ulds3ed082koiq73bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vuongDan.hcm23DemoPrj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
